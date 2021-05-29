@@ -1,0 +1,14 @@
+# curl -X POST http://127.0.0.1:3001/metadatas -H 'Content-Type: application/json;' -H 'Accept: application/json;' -d '{"url": "https://visualstudio.microsoft.com"}'
+POST http://127.0.0.1:3001/metadatas
+Accept: application/json
+Content-Type: application/json
+
+{"url": "https://kr.ncsoft.com"}
+
+###
+
+GET http://127.0.0.1:3001/metadatas
+Content-Type: application/json
+
+###
+
