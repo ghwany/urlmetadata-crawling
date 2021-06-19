@@ -1,6 +1,8 @@
 # URL Metadata crawling
 URL Metadata 크롤링 웹앱
 
+> Node.js express mongodb
+
 # 시작하기
 ```docker
 docker-compose up 
